@@ -1,5 +1,5 @@
 # E-Commerce-App
-Springboot, MySQL, Docker 
+Back-end(Springboot), Database(MySQL), Docker 
 
 
 E-COMMERCE-APP BACKEND(SPRINGBOOT) AND DATABASE(MYSQL) (author: Dang Minh Tuan - Dagg)
